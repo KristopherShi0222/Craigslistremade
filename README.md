@@ -1,2 +1,0 @@
-# Craigslistremade
-Redesigned Craigslists homepage
